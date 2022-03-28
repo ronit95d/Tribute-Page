@@ -82,9 +82,6 @@ a:hover {
 /* Responsive */
 
 @media (max-width: 900px) {
-  .title-image {
-    margin-right: 1%;
-  }
 
   .table-content {
     width: 100%;
